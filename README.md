@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanika</h1>
-<h3 align="center">2nd year BCA student|specialization in Data science in collaboration with IBM</h3>
+<h3 align="center">3rd year BCA student|specialization in Data science in collaboration with IBM</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_1280.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanikaher-19&label=Profile%20views&color=0e75b6&style=flat" alt="sanikaher-19" /> </p>
